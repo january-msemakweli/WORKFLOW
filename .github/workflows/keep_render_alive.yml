@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Send request to Render app
         run: |
-          curl -s -o /dev/null -w "%{http_code}" https://camp-1983.onrender.com/
+          curl -s -o /dev/null -w "%{http_code}" https://mohealthprogrammes.onrender.com/
